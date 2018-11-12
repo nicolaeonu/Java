@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        MegaBytesConverter.printMegaBytesAndKiloBytes(40000);
+        printMegaBytesAndKiloBytes(40000);
     }
     
     public static void printMegaBytesAndKiloBytes (int kiloBytes){
