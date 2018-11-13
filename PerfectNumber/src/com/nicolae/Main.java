@@ -20,8 +20,9 @@ public class Main {
             }
             if (sum == number) {
                 System.out.println("true");
-            }else
+            }else{
                 System.out.println("false");
+            }
         }
     }
 
