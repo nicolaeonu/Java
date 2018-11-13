@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        LastDigitChecker.hasSameLastDigit(11,22,33);
+        hasSameLastDigit(11,22,33);
     }
     
     public static void hasSameLastDigit(int num1,int num2,int num3)
